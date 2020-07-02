@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <h1>Bud Tendies</h1>
+    <h1 className="header">Bud Tendies</h1>
   );
 }
 
